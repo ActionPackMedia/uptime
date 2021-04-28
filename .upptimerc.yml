@@ -13,7 +13,7 @@ status-website:
   # baseUrl: /uptime
   logoUrl: https://app.acto.com/images/laica-awake.svg
   name: "ACTO Omnichannel"
-  introTitle: "ACTO OmniChannel"
+  introTitle: "ACTO Omnichannel"
   introMessage: Omnichannel Education for Life Sciences™
   navbar:
     - title: Status
