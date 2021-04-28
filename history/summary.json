@@ -1,20 +1,20 @@
 [
   {
-    "name": "ACTO OmniChannel",
+    "name": "ACTO Omnichannel",
     "url": "https://app.acto.com/health-check",
     "icon": "https://favicons.githubusercontent.com/app.acto.com",
-    "slug": "acto-omni-channel",
+    "slug": "acto-omnichannel",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 642,
-    "timeWeek": 642,
-    "timeMonth": 642,
-    "timeYear": 642,
+    "time": 192,
+    "timeDay": 192,
+    "timeWeek": 192,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   }
 ]
