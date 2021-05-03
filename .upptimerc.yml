@@ -15,10 +15,10 @@ status-website:
   faviconSvg: https://app.acto.com/images/laica-awake.svg
   name: "ACTO Omnichannel"
   introTitle: "ACTO Omnichannel"
-  introMessage: Omnichannel Education for Life Sciences™
+  introMessage: "Omnichannel Education for Life Sciences™"
   navbar:
     - title: Status
       href: /
       
 i18n:
-  footer: ACTO Technologies Inc.
+  footer: "ACTO Technologies Inc."
