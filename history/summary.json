@@ -4,19 +4,19 @@
     "url": "https://app.acto.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/app.acto.com.ico",
     "slug": "acto-omnichannel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 214,
-    "timeWeek": 232,
-    "timeMonth": 232,
+    "time": 243,
+    "timeDay": 232,
+    "timeWeek": 234,
+    "timeMonth": 233,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-01-15": 0
+      "2024-01-15": 24
     }
   }
 ]
