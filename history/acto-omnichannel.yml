@@ -1,7 +1,7 @@
 url: https://app.acto.com/health-check
-status: down
-code: 500
-responseTime: 137
-lastUpdated: 2025-11-18T11:42:01.209Z
+status: up
+code: 200
+responseTime: 173
+lastUpdated: 2025-11-18T11:50:24.884Z
 startTime: 2021-04-28T16:13:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
